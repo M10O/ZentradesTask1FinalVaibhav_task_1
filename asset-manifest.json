@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zentrades-task-2-3-vaibhav/static/css/main.faa2d590.css",
+    "main.js": "/zentrades-task-2-3-vaibhav/static/js/main.670375a2.js",
+    "static/js/453.8ab44547.chunk.js": "/zentrades-task-2-3-vaibhav/static/js/453.8ab44547.chunk.js",
+    "static/media/bg-image.jpg": "/zentrades-task-2-3-vaibhav/static/media/bg-image.749bbbe5745a5c2ce511.jpg",
+    "static/media/logo.png": "/zentrades-task-2-3-vaibhav/static/media/logo.b7a8f43037b4376637b1.png",
+    "index.html": "/zentrades-task-2-3-vaibhav/index.html",
+    "main.faa2d590.css.map": "/zentrades-task-2-3-vaibhav/static/css/main.faa2d590.css.map",
+    "main.670375a2.js.map": "/zentrades-task-2-3-vaibhav/static/js/main.670375a2.js.map",
+    "453.8ab44547.chunk.js.map": "/zentrades-task-2-3-vaibhav/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa2d590.css",
+    "static/js/main.670375a2.js"
+  ]
+}
